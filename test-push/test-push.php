@@ -15,8 +15,8 @@
  * @wordpress-plugin
  * Plugin Name:       Test Push
  * Plugin URI:        https://andersonadvisors.com
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
- * Version:           1.3.0
+ * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area dsdfsdfsdf.
+ * Version:           1.4.0
  * Author:            Caleb Owens
  * Author URI:        https://github.com/caleb-owens
  * License:           GPL-2.0+
