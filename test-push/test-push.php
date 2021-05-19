@@ -9,7 +9,7 @@
  * that starts the plugin.
  *
  * @link              https://github.com/caleb-owens
- * @since             1.0.0
+ * @since             1.1.0
  * @package           Test_Push
  *
  * @wordpress-plugin
